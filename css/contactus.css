@@ -1,0 +1,42 @@
+body{	
+	background-image:url("..//img/it.jpg");
+ background-size: cover;
+	background-repeat: no repeat;
+	background-color: #cccccc;
+}
+
+h2 { 
+color: skyblue;
+margin: 1%;
+padding: 0%;
+ 	
+ }
+
+hr {
+	border-color: green;
+border-width:5px;
+}
+
+h1 {
+	color: whitesmoke;
+    
+}
+.color{
+  color:goldenrod;
+
+}
+.img{
+height: 5%;
+width: 5%;
+border-radius: 50%;
+}
+.or
+{
+	color: whitesmoke;
+ 
+}
+ 
+ .float{
+ 	float: right;
+ 	color: skyblue;
+ }

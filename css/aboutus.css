@@ -1,0 +1,39 @@
+body{
+ background-image:url("..//img/it.jpg");
+ background-size: cover;
+	background-repeat: no repeat;
+	background-color: #cccccc;
+}
+
+h2 { 
+float: right;
+color: skyblue;
+margin: 1%;
+padding: 0%;
+ }
+h1{
+	color: whitesmoke;
+}
+p{
+	color: whitesmoke;
+	font-size: 150%;
+}
+
+hr {
+	border-color: green;
+border-width:5px;
+}
+
+.mypic{
+width: 10%;
+height: 20%;
+margin: 0%;
+padding: 0%;
+}
+
+.pic{
+	width: 9.4%;
+height: 10%;
+margin: 0%;
+}
+

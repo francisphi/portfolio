@@ -1,0 +1,36 @@
+
+body{
+background-image:url("..//img/it.jpg");
+ background-size: cover;
+	background-repeat: no repeat;
+	background-color: #cccccc;
+}
+
+h2 { 
+color: skyblue;
+float: right;
+margin: 1%;
+padding: 0%;
+ }
+
+hr {
+	border-color: green;
+border-width:5px;
+}
+
+h1{
+	color: lightblue;
+	font-size: 70px;
+}
+.marg-text {
+
+	scroll-behavior: alternate;
+	direction: right;
+}
+.my{
+	color: whitesmoke;
+	font-size: 500%;
+}
+.porfolio{
+	color: whitesmoke;
+}

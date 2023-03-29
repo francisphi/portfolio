@@ -1,0 +1,57 @@
+body{
+ background-size:cover;
+	background-repeat: no repeat;
+	background-image: url("..//img/anony.jpg");
+}
+.marg{
+	scroll-behavior: alternate;
+	direction: right;
+ color: lightblue;
+ font-size:50px;
+
+}
+h4 {
+	color: lightblue;
+}
+
+
+.img{
+	float: left;
+	border-radius: 50;
+	padding-right:1%;
+	width:15%;
+	height: 30%;
+	padding: 1%;
+}
+h2 {
+	color: whitesmoke;
+    padding
+}
+h3{
+	color: whitesmoke;
+	float:;
+}
+.img1{
+	width: 3%;
+	
+}
+u {
+	color: red;
+	font-size: 100%;
+}
+h1 {
+	color: whitesmoke;
+}
+p { 
+	color: whitesmoke;
+	font-size:150%;
+ }
+ hr {
+
+ border-width: 10px;
+ border-color: whitesmoke;
+ }
+ ul {
+ 	color: whitesmoke;
+ 	list-style-type: square;
+ }

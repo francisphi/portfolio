@@ -1,0 +1,43 @@
+body{
+ background-image:url("..//img/it.jpg");
+ background-size: cover;
+	background-repeat: no repeat;
+	background-color: #cccccc;
+}
+
+h2 { 
+color: skyblue;
+float: right;
+margin: 1%;
+padding: 0%;
+ }
+h3 {
+	color: whitesmoke;
+
+	font-size: 200%;
+}
+
+hr {
+	border-color: green;
+border-width:5px;
+}
+h1{
+color: whitesmoke;
+}
+
+
+ol{
+	color: whitesmoke;
+}
+
+li {
+	color: whitesmoke;
+}
+
+u {
+	color: yellow;
+}
+h4{
+	color: whitesmoke;
+	
+}
