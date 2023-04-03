@@ -1,0 +1,18 @@
+h1 {
+	font-size: 40px;
+	color: floralwhite;
+	text-align: center;
+}
+
+h2{
+	font-size: 30px;
+	color: darkmagenta ;
+
+}
+img {
+	width: 200px;
+	height: 200px;
+}
+
+p { 
+text-align: left; }
