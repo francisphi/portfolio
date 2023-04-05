@@ -1,0 +1,22 @@
+body { 
+background-image: url("..//image/background3.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+ }
+ div{
+ 	color: whitesmoke;
+    font-size: 150%;
+
+ }
+
+ .facebook{
+ 	height: 60px;
+ 	width: 70px;
+ border-radius: 50%;
+ }
+
+ .mypic{
+border-radius: 50%;
+height: 25%;
+width: 20%;
+ }
