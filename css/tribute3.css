@@ -1,0 +1,17 @@
+
+body{
+	background-image: url("..//img/lebronbackground.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+img{
+	border-radius: 60%;
+	height: 40%;
+	width: 30%;
+}
+p{
+	color: yellow;
+	font-size: 160%;
+}
